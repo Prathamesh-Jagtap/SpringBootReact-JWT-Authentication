@@ -63,7 +63,7 @@ This is a full-stack application with a **React.js frontend** and **Spring Boot 
 # Frontend (React js)
 
 ```bash
-  cd frontend
+  cd SpringBootReact-JWT-Authentication/frontend
   npm install
   npm run dev
 ```
