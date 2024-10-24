@@ -18,8 +18,8 @@ This is a full-stack application with a **React.js frontend** and **Spring Boot 
 - Spring Boot
 - Spring Security
 - JWT (JSON Web Token)
-- JPA (Java Persistence API)
-- MySQL (or any relational database)
+- JPA 
+- MySQL 
 
 # Frontend:
 - React.js
